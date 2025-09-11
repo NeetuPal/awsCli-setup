@@ -1,1 +1,1 @@
-# awsCli-setup
+# aws-cli-setup
